@@ -17,3 +17,5 @@ Pada fungsi Lihat Data, sistem menampilkan data yang tersimpan berdasarkan label
 Melalui menu Hapus Data, pengguna dapat menghapus data tertentu dengan memasukkan kode data yang relevan, dan sistem akan memberikan konfirmasi keberhasilan penghapusan. Pada menu Cari Data, pengguna dapat mencari data berdasarkan kriteria tertentu seperti kode, nama, atau bidang, dengan hasil pencarian yang sesuai akan ditampilkan. Fungsi Riwayat mencatat aktivitas pada sistem, seperti penambahan, pengubahan, dan penghapusan data, lengkap dengan informasi waktu dan pengguna yang melakukan aksi tersebut. Log ini berguna untuk melacak setiap perubahan dalam sistem. Akhirnya, melalui menu Logout, pengguna dapat keluar dari aplikasi dan kembali ke halaman login, mengakhiri sesi kerja mereka.
 
 
+![erdpbo](https://github.com/user-attachments/assets/c492e9c7-40bb-4527-858a-a9453c759e00)
+![logicalpbo](https://github.com/user-attachments/assets/033cec83-34f8-4019-a6c2-02277271e68a)
